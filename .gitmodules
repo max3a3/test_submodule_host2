@@ -1,0 +1,3 @@
+[submodule "app/submodule_a"]
+	path = app/submodule_a
+	url = https://github.com/max3a3/submodule_a
